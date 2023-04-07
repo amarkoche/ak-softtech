@@ -1,0 +1,19 @@
+.expence-date{
+    background-color: #282727;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid white;
+    color: #fff;
+    text-align: center;
+
+}
+.expence-date-month{
+    font-size: 14px;
+}
+.expence-date-year{
+    font-weight: normal;
+}
+.expence-date-day{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
